@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Sou Formado em Análise e Desenvolvimento de Sistemas.<br>👯 Procuro um estágio na área de T.I .<br>🤝 Busco experiência no mercado de Trabalho.<br>🌱 Meu foco é em Desenvolvimento Web (Front-End).<br>💬 Já sei fazer alguns projetos, porém ainda estou procurando <br>uma oportunidade para começar a programa no mercado, <br>sempre busco aprender mais e mais para aperfeiçoar <br>minhas técnicas.<br>
+🔭 Sou Formado em Análise e Desenvolvimento de Sistemas, mas com foco em ser Web Developer.<br>👯 Sou bastante proativo, gosto de desafios e de ajudar meus companheiros, em prol da empresa.<br>🤝 Busco experiência no mercado de Trabalho de T.I.<br>🌱 Meu foco é em Desenvolvimento Web (Front-End).<br>💬 Já sei fazer alguns projetos, porém ainda estou procurando <br>uma oportunidade para começar a programa no mercado, <br>sempre busco aprender mais e mais para aperfeiçoar <br>minhas técnicas.<br>
 
 
 ## 🌐 Socials:
